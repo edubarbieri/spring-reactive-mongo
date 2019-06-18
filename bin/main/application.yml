@@ -1,0 +1,6 @@
+server:
+  port: 8890
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://mymoney:C0nnect123@cluster0-fd81p.mongodb.net/test?retryWrites=true&w=majority
